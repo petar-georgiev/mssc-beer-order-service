@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/mssc-beer-order-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/mssc-beer-order-service)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/petar-georgiev/mssc-beer-order-service/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/petar-georgiev/mssc-beer-order-service/tree/master)
 
 # MSSC Beer Order Service
 
