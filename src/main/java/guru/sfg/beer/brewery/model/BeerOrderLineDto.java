@@ -1,5 +1,5 @@
 
-package guru.sfg.beer.order.service.web.model;
+package guru.sfg.beer.brewery.model;
 
 import lombok.Builder;
 import lombok.Data;
